@@ -9,5 +9,6 @@
 * Create a new job such as "Garbage Cleanup at the Beach"
 * View Jobs available
 
-### The Balsamiq Wireframe can be downloaded [here](https://github.com/shaylarao/Balsamiq/files/13059047/New.Project.1.pdf) or viewed by clicking the pdf above
 
+
+![Capture](https://github.com/shaylarao/Balsamiq/assets/11083380/1cf6bfd2-eaca-4f38-846d-544f23a2880b)
